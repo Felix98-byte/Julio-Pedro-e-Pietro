@@ -1,0 +1,6 @@
+Hoje nós acessamos o raspberry pi lite os, usando o adaptador VGA para HDMI plugado na placa, colocamos o login e senha (placa RPI-103) 
+
+mascara mac local: 00:00:00:00:00:00 brd 00:00:00:00:00:00
+mascara mac ethernet: b8:27:eb:96:29:d6 brd ff:ff:ff:ff:ff:ff
+mascara mac wlan: b8:27:eb:96:29:d6 brd ff:ff:ff:ff:ff:ff
+
